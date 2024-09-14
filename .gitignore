@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.*
+
+# Build output
+dist/
+build/
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Coverage reports
+coverage/
+
+# Miscellaneous
+npm-debug.log*
+yarn-error.log*
